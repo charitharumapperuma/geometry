@@ -10,4 +10,4 @@ Creates an triangle classification program where triangles are classified into 8
 <li>Acute Angle Isoscele</li>
 </ul>
 
-<em>Reference #15061</em>
+Reference #15061
